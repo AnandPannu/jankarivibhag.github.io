@@ -1,2 +1,2 @@
 # jankarivibhag.github.io
-This id Educational website
+This is Educational website
